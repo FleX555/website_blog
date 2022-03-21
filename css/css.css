@@ -1,0 +1,62 @@
+*{
+   font-family: 'Montserrat Alternates', sans-serif;
+}
+
+#div-logo
+{
+     margin: 0 auto;
+     width: 300px; 
+}
+
+#text-title{
+   text-align: center;
+   padding: 30px;
+}
+
+.main-content .post{
+   margin-bottom: 10px;
+}
+.main-content{
+   margin:0 auto;
+  /* width:200px;
+   height:200px;*/
+}
+
+.img {
+   margin: 0 auto;
+}
+
+.post_text{
+   margin: 0 auto;
+}
+
+.text-title{
+   margin: 0 auto;
+}
+
+.reg_form input{
+   height: 3.3rem;
+}
+
+/* FORMS*/
+
+form div.err{
+   color: red;
+}
+
+/*successfulreg*/
+.lead{
+   margin-top	: 200px;
+   margin-left: 50px;
+   margin-right: 50px;
+   text-align: center;
+}
+
+
+.nav-item{
+   font-size: 13px;
+}
+
+a{
+   text-decoration: none;
+}

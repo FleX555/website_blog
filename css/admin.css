@@ -1,0 +1,100 @@
+*{
+    font-family: 'Montserrat Alternates', sans-serif;
+ }
+ 
+ a {
+     text-decoration: none; 
+ }
+
+ #div-logo
+ {
+      margin: 0 auto;
+      width: 300px; 
+ }
+ 
+ #text-title{
+    text-align: center;
+    padding: 30px;
+ }
+ 
+ .main-content .post{
+    margin-bottom: 10px;
+ }
+ .main-content{
+    margin:0 auto;
+   /* width:200px;
+    height:200px;*/
+ }
+ 
+ .img {
+    margin: 0 auto;
+ }
+ 
+ .post_text{
+    margin: 0 auto;
+ }
+ 
+ .text-title{
+    margin: 0 auto;
+ }
+ 
+ .reg_form input{
+    height: 3.3rem;
+ }
+  /*sidebar*/
+ .sidebar{
+    margin: 1rem 0;
+    
+ }
+
+ .sidebar ul{
+    list-style: none;
+    margin: 0px;
+ }
+
+ .sidebar ul a{
+    padding: 10px;
+    display: block;
+    border-bottom: 1px solid black;
+    background: rgb(211, 211, 211);
+ }
+
+ .btn-ligh{
+    background: rgb(226, 18, 18);  
+    /*изменить цвет при наведении на кнопку*/
+ }
+
+ .posts{
+    height: 100%;
+    padding: 40px 100px 100px;
+    overflow-y: scroll;
+ }
+
+ .posts h2{
+    text-align: center;
+    margin: 1.5rem 0;
+ }
+
+.posts .title-table div{
+   padding: 15px;
+   text-align: left;
+   border-bottom: 1px solid black;
+}
+
+.posts .post div{
+   padding: 15px;
+   text-align: left;
+   border-bottom: 1px solid black;
+}
+
+.posts .post .red{
+   color: rgb(255, 166, 0);
+}
+
+.posts .post .del{
+   color: red;
+}
+
+.add-post form div{
+   margin: 2rem 0;
+}
